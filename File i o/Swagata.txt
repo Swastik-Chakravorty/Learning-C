@@ -1,0 +1,2 @@
+The number is 50
+Thanks for using fprintf
